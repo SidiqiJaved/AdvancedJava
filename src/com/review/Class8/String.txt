@@ -1,0 +1,7 @@
+
+
+
+.toUpperCase(); this method convert convert string to CAPS
+
+
+method Chaining" when calling more than one method in one line

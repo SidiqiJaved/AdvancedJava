@@ -1,0 +1,20 @@
+
+
+
+Method overloading in Java
+If we hvae a same named methods in a class with different number of parameters differnt
+sequence of parameters or different data types of the parameter it is called method.
+
+overloading
+
+class calculator{
+
+add (int number, int number2){
+}
+add (double number , double number2){
+
+}
+add (int number , int number2, int number3){
+
+}
+}

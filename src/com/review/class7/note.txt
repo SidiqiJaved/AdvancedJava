@@ -1,0 +1,5 @@
+there are two types of java methods
+
+
+1. user input the one we write
+2. one is built in method anything that comes in java

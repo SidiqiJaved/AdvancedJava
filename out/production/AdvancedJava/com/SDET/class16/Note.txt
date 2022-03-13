@@ -1,0 +1,27 @@
+Class 16 notes
+String method  Calass review note
+1. System.out.println(str.indexOf('A')); if we search for a charicater in a setense or word the return will be -1
+
+2. System.out.println(str.lastIndexOf('a')); // show the number of char in the word/sentece like
+Sophia
+012345 number 5 is a
+
+3. System.out.println(str.substring(str.indexOf("#")));
+
+will print the whole sentense after this #
+
+
+
+4. System.out.println(str.replace("good", "great"));
+  will replace one word to another.
+
+5.
+      System.out.println(str.replaceAll("[0-9]", ""));
+
+repalces numbers in the setence
+
+6.   System.out.println(str.replaceAll("[a-z]", ""));
+it repalces all the small letters in the sentences from a to z
+
+7.
+
